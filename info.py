@@ -7,7 +7,7 @@ about_me = "Hi! My name is Dora Ayan, I am a first year Industrial Engineering s
 
 
 #CHANGE BELOW (OPTIONAL)
-linkedin_image_url = "https://www.linkedin.com/in/dora-ayan-660ab541b/"
+linkedin_image_url = "https://img.icons8.com/color/96/linkedin.png"
 github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
